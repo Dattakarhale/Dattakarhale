@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dattakarhale/Dattakarhale/main/banner.png" alt="Datta Karhale Banner" />
+</p>
 <!-- Profile Header -->
 <h1 align="center">🚀 Welcome to My Digital Universe! 🚀</h1>
 <h3 align="center">Java Full Stack Developer</h3>
